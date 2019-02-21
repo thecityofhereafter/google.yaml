@@ -1,0 +1,2 @@
+# google.yaml
+Google Phishlet
